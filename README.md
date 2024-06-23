@@ -1,2 +1,3 @@
 # javaEE-Project
-diary using Java
+diary using jsp and servlets
+database MySQL
